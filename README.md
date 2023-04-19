@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Pakin Silpasert</h1>
-<h3 align="center">A hothead software developer from Thailand</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif">
+<h1 align="center">Hello~ 🙋🏻‍♂️, I'm Pakin Silpasert</h1>
+<h3 align="center">A Hothead Software Dev from Thailand 🔥</h3>
+<img align="right" alt="Coding" width="450" src="https://media.tenor.com/DBS00qyMl3AAAAAM/bug-developer.gif">
 
-- 🌱 I’m currently learning **Flutter**
+- 📖 Currently learning **Flutter**
 
 - 💬 Ask me about **Anything, I'd be silence if I don't know 😉**
 
 - 📫 How to reach me **pakin.silpasert@gmail.com**
 
-- ⚡ Fun fact **I'm quiet but talkative at the same time.**
+- 🗣️ **I'm quiet but talkative at the same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
