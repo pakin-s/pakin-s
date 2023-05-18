@@ -2,7 +2,7 @@
 <h3 align="center">A Hothead Software Dev 🔥</h3>
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/DBS00qyMl3AAAAAM/bug-developer.gif">
 
-- 📖 **Currently learningFlutter**
+- 📖 **Trying to be fullstack here 💪**
 
 - 💬 **Ask me about anything, I'd be silence if I don't know 😉**
 
