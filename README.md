@@ -4,7 +4,7 @@
 
 - 📖 **Trying to be fullstack here 💪**
 
-- 💬 **Ask me about anything, I'd be silence if I don't know 😉**
+- 💬 **I'd be silence if I don't know 😉**
 
 - 📫 **How to reach me** **pakin.silpasert@gmail.com**
 
