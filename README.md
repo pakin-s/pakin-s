@@ -2,8 +2,6 @@
 <h3 align="center">A Hothead Software Dev 🔥</h3>
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/DBS00qyMl3AAAAAM/bug-developer.gif">
 
-- 📖 **Trying to be fullstack here 💪**
-
 - 💬 **I'd be silence if I don't know 😉**
 
 - 📫 **How to reach me** **pakin.silpasert@gmail.com**
