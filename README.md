@@ -2,12 +2,6 @@
 <h3 align="center">A Hothead Software Dev 🔥</h3>
 <img align="right" alt="Coding" width="450" src="https://media.tenor.com/DBS00qyMl3AAAAAM/bug-developer.gif">
 
-- 💬 **I'd be silence if I don't know 😉**
-
-- 📫 **How to reach me** **pakin.silpasert@gmail.com**
-
-- 🗣️ **I'm quiet but talkative at the same time.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/pakin silpasert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pakin silpasert" height="30" width="40" /></a>
